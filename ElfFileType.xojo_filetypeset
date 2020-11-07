@@ -1,0 +1,34 @@
+#tag FileTypeSet
+	#tag FileType
+		CodeName=ELF
+		Extension=.elf
+		Flags=&h2
+		MacCreator=
+		MacType=
+		Name=ELF file
+		UTI=
+		UTIConformsTo=, public.data
+		Description=
+		MimeType=
+		Imported=True
+		HandlerRank=&h9
+		UTIPhysicalType=public.data
+	#tag EndFileType
+
+	#tag FileType
+		CodeName=C
+		Extension=.c
+		Flags=&h2
+		MacCreator=
+		MacType=
+		Name=C file
+		UTI=
+		UTIConformsTo=,public.data
+		Description=
+		MimeType=
+		Imported=True
+		HandlerRank=&h9
+		UTIPhysicalType=public.data
+	#tag EndFileType
+
+#tag EndFileTypeSet
